@@ -28,7 +28,7 @@
 			</ul>
 			</nav>
 		</header>
-		
+		salam
 		<div id="banner">
 				
 		</div> <!-- end of banner -->
