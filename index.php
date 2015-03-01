@@ -40,7 +40,7 @@
 		</div> <!-- end of content_wrapper-->
 		
 		<footer>
-		
+		footer
 		</footer>
 	</div>	
 </body>
