@@ -18,7 +18,7 @@
 			<ul>
 				<li>ff</li>
 				<li>Fix bug #1</li>
-				<li></li>
+				<li>Fix bug #1 deuxième fois</li>
 				<li></li>
 				<li></li>
 				<li></li>
