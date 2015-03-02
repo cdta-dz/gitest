@@ -17,7 +17,7 @@
 			<nav>
 			<ul>
 				<li>ff</li>
-				<li></li>
+				<li>Fix bug #1</li>
 				<li></li>
 				<li></li>
 				<li></li>
